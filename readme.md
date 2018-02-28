@@ -1,8 +1,13 @@
 ## Curso git desde cero
 
+##Zonas de git
+1- Directorio de trabajo
+2-Área de preparación
+3-Directorio de git
+
 ##comandos iniciales para git para consola
 git init => es para inicializar git y empezar a guardar los cambios desde la ruta de una carpeta
-en nuestra termianl
+en nuestra terminal
 
 git status => es para ver como se encuentran nuestros archivos de nuestra carpeta en donde estamos ejecutando git
 
