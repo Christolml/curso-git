@@ -18,3 +18,10 @@ git commit -m "Mensaje descriptivo del commit"  => con esto ya confirmo los camb
 gt log => con este puedo ver los commits realizados, quien los hizo sus versiones, su fecha y el mensaje del commit
 
 git diff => muestra lo que se ha modificado en nuestro git
+
+##Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
+git add .  => para agregar varios archivos a la vez es sin importar si estamos siguiendo
+
+git reset HEAD "file name" => es para quitar mi archivo de la zona de preparación y volverla al Directorio   de trabajo
+
+git add -A => con este agrega todos los archivos que estan en el directorio de trabajo y que estemos ya siguiendo con git
