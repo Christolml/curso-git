@@ -19,6 +19,8 @@ gt log => con este puedo ver los commits realizados, quien los hizo sus versione
 
 git diff => muestra lo que se ha modificado en nuestro git
 
+git commit --amend => con este puedo editar un comentario
+
 ##Sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
 git add .  => para agregar varios archivos a la vez es sin importar si estamos siguiendo
 
