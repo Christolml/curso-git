@@ -12,10 +12,19 @@ Con git log nos muestra el historial de los commits
 
 `git log --pretty=format: "%h - %an, %ar : %s"
 
--%h nos muestra ell codigo del commit
+-%h nos muestra el codigo del commit
 -%an muestra el nombre del autor del commit
 -%ar muestra hace cuanto se creo el commit
 -%s muestra el mensaje del commit
+
+
+limitar la salida del historial por un rango de fechas
+
+git log --after="2018-03-18"  muestra los commits despues de esa fecha
+git log --before="2018-03-01"  muestra los commits antes de esa fecha
+
+se puede combinar como en un rango
+git log --after="2018-03-05" --before="2018-03-22"
 
 
 
