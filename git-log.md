@@ -1,7 +1,7 @@
 
 ### Historial de confirmaciones
 
-Con git log nos muestra el historial de los commits
+Con git log nos muestra todo el historial de los commits
 
 -git log
 -git log --oneline
